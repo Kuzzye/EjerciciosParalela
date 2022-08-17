@@ -32,10 +32,10 @@ Salida esperada :
 
 5.- Escribe un programa en C para mostrar el patrón como triángulo rectángulo usando un asterisco. La cantidad de líneas del triangulo es ingresada por consola por el usuario, y el valor máximo de líneas es de 14.
 El patrón como :
-/*/
-/**/
-/***/
-/****/
+"*"
+"**"
+"***"
+"****"
 
 6.- Escribe un programa que imprima una matriz de “1”, de tamaño NxN. El tamaño es indicado por el usuario y debe ser siempre menor que 8.
 
